@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vleks WooCommerce\n"
+"POT-Creation-Date: 2017-07-03 13:57+0200\n"
+"PO-Revision-Date: 2017-07-03 14:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: Vleks.com\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-wc-vleks-integration.php:41
+msgid "Vleks.com"
+msgstr "Vleks.com"
+
+#: class-wc-vleks-integration.php:42
+msgid "The official Vleks.com WooCommerce integration."
+msgstr "De officiële Vleks.com WooCommerce integratie."
+
+#: class-wc-vleks-integration.php:43
+msgid "File location"
+msgstr "Bestandslocatie"
+
+#: class-wc-vleks-integration.php:44
+msgid "Next export planned"
+msgstr "Volgende geplande export"
+
+#: class-wc-vleks-integration.php:85
+msgid "Product brands"
+msgstr "Product merken"
+
+#: class-wc-vleks-integration.php:86
+msgid "Brand"
+msgstr "Merk"
+
+#: class-wc-vleks-integration.php:87
+msgid "Brands"
+msgstr "Merken"
+
+#: class-wc-vleks-integration.php:88
+msgid "All brands"
+msgstr "Alle merken"
+
+#: class-wc-vleks-integration.php:89
+msgid "Edit brand"
+msgstr "Bewerk merk"
+
+#: class-wc-vleks-integration.php:90
+msgid "View brand"
+msgstr "Toon merk"
+
+#: class-wc-vleks-integration.php:91
+msgid "Update brand"
+msgstr "Pas merk aan"
+
+#: class-wc-vleks-integration.php:92
+msgid "Add new brand"
+msgstr "Voeg een nieuw merk toe"
+
+#: class-wc-vleks-integration.php:93
+msgid "New brand name"
+msgstr "Nieuwe merknaam"
+
+#: class-wc-vleks-integration.php:117
+msgid "EAN"
+msgstr "EAN"
+
+#: class-wc-vleks-integration.php:119
+msgid ""
+"EAN refers to a European Article Number, a semi-unique identifier for each "
+"distinct product that can be purchased."
+msgstr ""
+"EAN refereert naar een Europees Artikel Nummer, een referentie voor elk "
+"product dat aangeschaft kan worden."
+
+#: class-wc-vleks-integration.php:129
+msgid "Condition"
+msgstr "Status"
+
+#: class-wc-vleks-integration.php:131
+msgid "New"
+msgstr "Nieuw"
+
+#: class-wc-vleks-integration.php:132
+msgid "As new"
+msgstr "Als nieuw"
+
+#: class-wc-vleks-integration.php:133
+msgid "Good"
+msgstr "Goed"
+
+#: class-wc-vleks-integration.php:134
+msgid "Reasonable"
+msgstr "Redelijk"
+
+#: class-wc-vleks-integration.php:135
+msgid "Moderate"
+msgstr "Matig"
+
+#: class-wc-vleks-integration.php:162
+msgid "Stock marge"
+msgstr "Voorraadmarge"
+
+#: class-wc-vleks-integration.php:163
+msgid "Allow some marge in the stock quantity on Vleks.com"
+msgstr "Min de voorraad van een product met een bepaalde marge voor Vleks.com"
+
+#: class-wc-vleks-integration.php:168
+msgid "Merchant ID"
+msgstr "Verkopers ID"
+
+#: class-wc-vleks-integration.php:169
+msgid "Enter your Vleks.com Merchant ID."
+msgstr "Vul hier het Vleks.com verkopers ID in."
+
+#: class-wc-vleks-integration.php:174
+msgid "Stock Location ID"
+msgstr "Voorraadlocatie ID"
+
+#: class-wc-vleks-integration.php:175
+msgid "Enter your Vleks.com Stock Location ID."
+msgstr "Vul hier het Vleks.com voorraadlocatie ID in."
+
+#: class-wc-vleks-integration.php:181
+msgid "Enable feed generation"
+msgstr "Schakel het genereren van feeds in"
+
+#: class-wc-vleks-integration.php:185
+msgid "Export rate"
+msgstr "Verversing feed"
+
+#: class-wc-vleks-integration.php:186
+msgid "How often is the feed generated."
+msgstr "Hoe vaak de feed wordt gegenereerd."
+
+#: class-wc-vleks-integration.php:190
+msgid "Every ten minutes"
+msgstr "Elke tien minuten"
+
+#: class-wc-vleks-integration.php:191
+msgid "Every fifteen minutes"
+msgstr "Elk kwartier"
+
+#: class-wc-vleks-integration.php:192
+msgid "Every half an hour"
+msgstr "Elk half uur"
+
+#: class-wc-vleks-integration.php:193
+msgid "Every fourty-five minutes"
+msgstr "Elke drie kwartier"
+
+#: class-wc-vleks-integration.php:194
+msgid "Every hour"
+msgstr "Elk uur"
+
+#: class-wc-vleks-integration.php:195
+msgid "Every six hours"
+msgstr "Om de zes uur"
+
+#: class-wc-vleks-integration.php:196
+msgid "Every twelve hours"
+msgstr "Om de twaalf uur"
+
+#: class-wc-vleks-integration.php:197
+msgid "Once a day"
+msgstr "Dagelijks"
+
+#: class-wc-vleks-integration.php:198
+msgid "Once a week"
+msgstr "Wekelijks"
+
+#: class-wc-vleks-integration.php:199
+msgid "Once a month"
+msgstr "Maandelijks"
+
+#: class-wc-vleks-integration.php:200
+msgid "Once a year"
+msgstr "Jaarlijks"
+
+#: class-wc-vleks-integration.php:204
+msgid "Minimal delivery time"
+msgstr "Minimale verzendtijd"
+
+#: class-wc-vleks-integration.php:205 class-wc-vleks-integration.php:211
+msgid "In days"
+msgstr "In dagen"
+
+#: class-wc-vleks-integration.php:210
+msgid "Maximal delivery time"
+msgstr "Maximale verzendtijd"
+
+#: class-wc-vleks-integration.php:224
+msgid "Be sure to enter a numeric value in the stock marge field."
+msgstr "Een voorraadmarge wordt numeriek opgegeven."
+
+#: class-wc-vleks-integration.php:235
+msgid "The Merchant ID really should not be empty."
+msgstr "Het verkopers ID dient ingevuld te zijn."
+
+#: class-wc-vleks-integration.php:246
+msgid "The Stock Location ID really should not be empty."
+msgstr "Het voorraadlocatie ID dient gevuld te zijn."
+
+#: class-wc-vleks-integration.php:258 class-wc-vleks-integration.php:278
+msgid "Please, use a numeric value."
+msgstr "Gebruik een numerieke waarde."
+
+#: class-wc-vleks-integration.php:264
+msgid "The Minimal delivery time should not be empty."
+msgstr "De minimale verzendtijd dient gevuld te zijn."
+
+#: class-wc-vleks-integration.php:284
+msgid "The Maximal delivery time should not be empty."
+msgstr "De maximale verzendtijd dient gevuld te zijn."
+
+#: class-wc-vleks-integration.php:290
+msgid ""
+"The Maximal delivery time should not be less than the Minimal delivery time."
+msgstr ""
+"De maximale verzendtijd mag niet lager zijn dan de minimale verzendtijd."
